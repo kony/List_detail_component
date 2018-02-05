@@ -1,0 +1,1 @@
+# List_detail_component
